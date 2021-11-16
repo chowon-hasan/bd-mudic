@@ -1,0 +1,268 @@
+
+
+
+@media (min-width: 481px) and (max-width:575px){
+    .school-text h1{
+        font-size: 57px;
+    }
+    .navbar-toggler span img {
+        width: 7%;
+    }
+    .school-text h5{
+        font-size: 14px;
+    }
+    .instruments h1, .camp-cont h1, .classes h1, .application-cont h1{
+        font-size: 57px;
+        text-align: center;
+    }
+    .about-text h2{
+        font-size: 27px;
+    }
+    .instruments h4, .camp-cont p, .classes p, .application-cont h5{
+        font-size: 14px;
+        padding-left: 0;
+        text-align: center;
+    }
+    .teacher{
+        background-image: none;
+    }
+    .progressbar{
+        background-blend-mode: overlay;
+    }
+    .onlin-btn{
+        margin-left: 176px;
+    }
+    .progm-bttn{
+        text-align: center;
+    }
+    .our-prog{
+        min-height: 400vh;
+    }
+    .prog-icon i{
+        transform: translate(-50%, -72%);
+        bottom: 72%;
+    }
+    .bdmusic h3, .bdmusic p,   .bdmusic h2{
+        text-align: center;
+    }
+    .courses {
+        padding-left: 0;
+        text-align: center;
+    }
+    .application-cont{
+        margin-top: 0;
+    }
+    .contact-info{
+        margin-top: 50px;
+        text-align: center;
+    }
+}
+
+@media (min-width: 320px) and (max-width:480px){
+   
+    .school-text h5{
+        font-size: 13px;
+    }
+    .about-img{
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .hudai {
+        margin-top: 30px;
+    }
+    .hudai h1{
+        font-size: 45px;
+        text-align: center;
+        padding-left: 0;
+    }
+    .about-text{
+        padding-left: 0;
+    }
+    .about-text h2{
+        font-size: 24px;
+        padding-left: 0;
+        text-align: center;
+    }
+    .about-text p{
+        padding-left: 0;
+        text-align: center;
+    }
+    .instruments h1{
+        font-size: 40px;
+        text-align: center;
+    }
+    .instruments h4, .camp-cont p{
+        font-size: 13px;
+        padding: 0;
+        text-align: center;
+        margin: 0;
+    }
+    .classes h1{
+        font-size:45px;
+        margin-top: 0;
+        text-align: center;
+    }
+    .camp-cont h1{
+        text-align: center;
+    }
+    .classes p{
+        font-size: 13px;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+   
+    .teacher p{
+        font-size: 13px;
+    }
+    .teacher{
+        background-image: none;
+    }
+    .prog-cont h2, .camp-cont h1,  .teacher h1, .school-text h1{
+        font-size: 45px;
+    }
+    .progressbar{
+        background-image: none;
+    }
+    .regis h3{
+        font-size: 20px;
+    }
+    .onlin-btn{
+        margin-left: 53px;
+    }
+    .our-prog{
+        min-height: 445vh;
+    }
+
+  .progm-cont h1 {
+    font-size: 40px;
+  }
+  .progm-bttn {
+    margin-top: 70px;
+    text-align: center;
+}
+    .prog-icon i {
+        transform: translate(-50%, -73%);
+        bottom: 73%;
+    }
+    .sub-ject p{
+        font-size: 14px;
+        text-align: center;
+    }
+    .testi-cont h1{
+        font-size: 40px;
+    }
+    .review {
+        margin: 50px 20px;
+    }
+    .review-1 p{
+        font-size: 14px;
+    }
+    .sub-btn{
+        border-radius: 4px;
+    }
+    .application-cont h1{
+        font-size: 30px;
+        text-align: center;
+    }
+    .apply-form{
+        padding-top: 0;
+    }
+    .application-cont{
+        margin-top: 0;
+    }
+    .application-cont h5{
+        font-size: 14px;
+    }
+ 
+    .courses {
+        padding-left: 0;
+        text-align: center;
+    }
+    .re-student img{
+        left: -9%;
+    }
+    .bdmusic h3, .bdmusic p,   .bdmusic h2{
+        text-align: center;
+    }
+    .contact-info{
+        margin-top: 50px;
+        text-align: center;
+    }
+
+}
+@media (max-width: 480px){
+    .navbar-toggler span img {
+        width: 8%;
+    }
+    .onlin-btn {
+        margin-left: 133px;
+    }
+    .prog-icon i {
+        transform: translate(-50%, -32%);
+        bottom: 75%;
+    }
+    .our-prog {
+        min-height: 380vh;
+    }
+    .re-student img {
+        left: -7%;
+    }
+}
+
+@media (max-width: 425px){
+    .navbar-toggler span img {
+        width: 8%;
+    }
+    .onlin-btn {
+        margin-left: 102px;
+    }
+    .prog-icon i {
+        transform: translate(-50%, -73%);
+        bottom: 72%;
+    }
+    .re-student img{
+        left: -7%;
+    }
+    .our-prog {
+        min-height: 395vh;
+    }
+}
+
+@media (max-width: 375px){
+    .navbar-toggler span img {
+        width: 10%;
+    }
+    .onlin-btn {
+        margin-left: 76px;
+    }
+    .prog-icon i {
+        transform: translate(-50%, -73%);
+        bottom: 73%;
+    }
+        .our-prog {
+            min-height: 415vh;
+        }
+}
+@media (max-width: 360px){
+    .prog-icon i {
+        transform: translate(-50%, -73%);
+        bottom: 73%;
+    }
+    .onlin-btn {
+        margin-left: 76px;
+    }
+    .our-prog {
+        min-height: 375vh;
+    }
+}
+@media (max-width: 320px){
+    .our-prog {
+        min-height: 442vh;
+    }
+    .onlin-btn {
+        margin-left: 50px;
+    }
+}
+
